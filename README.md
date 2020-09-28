@@ -12,7 +12,7 @@ This script performs a migration from a Testlink project to CS project, in order
 
 ### 3. Execute the python script
 
-$ python <nom_du_fichier_script.py> –i <chemin_vers_fichier_export_testlink.xml>
+`python <migration_script.py> –i <path_to_exported_testlink_project.xml>`
 
 ### 4. The script will generate a .xlsx file
 
